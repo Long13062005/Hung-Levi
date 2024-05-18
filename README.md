@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/long13062005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="long13062005" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/long hùng vũ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="long hùng vũ" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/long13062005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/long13062005" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/long-h%c3%b9ng-v%c5%a9-37b0ab283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/long-h%c3%b9ng-v%c5%a9-37b0ab283/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
